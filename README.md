@@ -29,4 +29,5 @@ import cdn on the index.js file
     npm i json-server
 
 import { ToastContainer, toast } from "react-toastify";
+
 import "react-toastify/dist/ReactToastify.css";
